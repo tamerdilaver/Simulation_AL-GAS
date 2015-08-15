@@ -2,11 +2,11 @@
 **	Master Thesis Econometrics
 **
 **  Purpose:
-**  	For some fixed parameter values simulate and estimate GARCH model parameters
-**		with Maximum Likelikhood many times. s.t. Elog(alpha_0 z_t^2 + beta_0) = 0.
+**  	For some fixed parameter values simulate and estimate AL-GAS(1,1) model parameters
+**		with Maximum Likelikhood many times. s.t. stationarity conditions of Bougerol's Theorem
 **
 **  Date:
-**    	30/05/2015
+**    	15/08/2015
 **
 **  Author:
 **	  	Tamer Dilaver
