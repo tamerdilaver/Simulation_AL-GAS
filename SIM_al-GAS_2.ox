@@ -17,24 +17,6 @@
 */
 
 
-/*		 [[[[[[DIT MOET WEG!!!]]]]]]
-**	Case Study Financial Econometrics 4.3 
-**
-**  Purpose:
-**  	Estimate all GARCH model parameters (gamma, omega, alpha and beta)
-**		with Maximum Likelikhood many times. s.t. Elog(alpha_0 z_t^2 + beta_0) < 0. (or simply alpha + beta <1) (Since alpha>0 and beta>0) 
-**
-**  Date:
-**    	10/01/2015
-**
-**  Author:
-**	  	Tamer Dilaver, Koen de Man & Sina Zolnoor
-**
-**	Supervisor:
-**		L.F. Hoogerheide & S.J. Koopman
-**
-*/
-
 #include <oxstd.h>
 #include <oxdraw.h>
 #include <oxprob.h>
